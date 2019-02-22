@@ -115,7 +115,7 @@ ggsave("nocheck_normalized_times.pdf", plot=plot2, device=plot_device, width=10,
 # ===========================
 
 table_impls <- c(
-  "Lua",
+  "Lua 5.4",
   "Lua-C API",
   "LuaJIT 2.1",
   "Pallene",
