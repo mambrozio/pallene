@@ -1,0 +1,253 @@
+Benchmark,Implementation,Time,Seq
+Queen,Pallene,1.310184,1
+Queen,Pallene,1.307641,2
+Queen,Pallene,1.309848,3
+Queen,Pallene,1.310304,4
+Queen,Pallene,1.354119,5
+Queen,Pallene,1.312823,6
+Queen,Pallene,1.332528,7
+Queen,Pallene,1.309278,8
+Queen,Pallene,1.300794,9
+Queen,Pallene,1.336888,10
+Queen,Pallene,1.306513,11
+Queen,Pallene,1.308100,12
+Queen,Pallene,1.304315,13
+Queen,Pallene,1.303307,14
+Queen,Pallene,1.302066,15
+Queen,Pallene,1.306313,16
+Queen,Pallene,1.304468,17
+Queen,Pallene,1.304025,18
+Queen,Pallene,1.305746,19
+Queen,Pallene,1.316882,20
+Queen,Pallene,1.303451,21
+Queen,Pallene,1.305560,22
+Queen,Pallene,1.347030,23
+Queen,Pallene,1.308420,24
+Queen,Pallene,1.350283,25
+Queen,Pallene,1.303243,26
+Queen,Pallene,1.304638,27
+Queen,Pallene,1.310584,28
+Queen,Pallene,1.302182,29
+Queen,Pallene,1.303535,30
+Queen,Pallene,1.303534,31
+Queen,Pallene,1.310849,32
+Queen,Pallene,1.311952,33
+Queen,Pallene,1.304878,34
+Queen,Pallene,1.308896,35
+Queen,Pallene,1.305518,36
+Queen,Pallene,1.355313,37
+Queen,Pallene,1.301282,38
+Queen,Pallene,1.303409,39
+Queen,Pallene,1.315674,40
+Queen,Pallene,1.300843,41
+Queen,Pallene,1.354326,42
+Queen,Lua 5.4,14.286590,1
+Queen,Lua 5.4,14.328598,2
+Queen,Lua 5.4,14.307507,3
+Queen,Lua 5.4,14.244755,4
+Queen,Lua 5.4,14.335190,5
+Queen,Lua 5.4,14.259034,6
+Queen,Lua 5.4,14.330563,7
+Queen,Lua 5.4,14.240636,8
+Queen,Lua 5.4,14.286074,9
+Queen,Lua 5.4,14.432760,10
+Queen,Lua 5.4,14.284761,11
+Queen,Lua 5.4,14.225454,12
+Queen,Lua 5.4,14.301764,13
+Queen,Lua 5.4,14.300041,14
+Queen,Lua 5.4,14.283955,15
+Queen,Lua 5.4,14.313789,16
+Queen,Lua 5.4,14.285908,17
+Queen,Lua 5.4,14.321691,18
+Queen,Lua 5.4,14.398982,19
+Queen,Lua 5.4,14.320326,20
+Queen,Lua 5.4,14.256349,21
+Queen,Lua 5.4,14.291889,22
+Queen,Lua 5.4,14.330230,23
+Queen,Lua 5.4,14.366580,24
+Queen,Lua 5.4,14.315434,25
+Queen,Lua 5.4,14.260815,26
+Queen,Lua 5.4,14.297414,27
+Queen,Lua 5.4,14.500495,28
+Queen,Lua 5.4,14.255829,29
+Queen,Lua 5.4,14.377714,30
+Queen,Lua 5.4,14.452108,31
+Queen,Lua 5.4,14.300674,32
+Queen,Lua 5.4,14.293128,33
+Queen,Lua 5.4,14.265912,34
+Queen,Lua 5.4,14.393985,35
+Queen,Lua 5.4,14.261271,36
+Queen,Lua 5.4,14.298250,37
+Queen,Lua 5.4,14.446796,38
+Queen,Lua 5.4,14.257777,39
+Queen,Lua 5.4,14.387545,40
+Queen,Lua 5.4,14.386839,41
+Queen,Lua 5.4,14.315252,42
+Queen,LuaJIT 2.1,1.652009,1
+Queen,LuaJIT 2.1,1.651225,2
+Queen,LuaJIT 2.1,1.650452,3
+Queen,LuaJIT 2.1,1.657243,4
+Queen,LuaJIT 2.1,1.651921,5
+Queen,LuaJIT 2.1,1.654160,6
+Queen,LuaJIT 2.1,1.657262,7
+Queen,LuaJIT 2.1,1.654514,8
+Queen,LuaJIT 2.1,1.652099,9
+Queen,LuaJIT 2.1,1.651557,10
+Queen,LuaJIT 2.1,1.650760,11
+Queen,LuaJIT 2.1,1.657874,12
+Queen,LuaJIT 2.1,1.649772,13
+Queen,LuaJIT 2.1,1.652313,14
+Queen,LuaJIT 2.1,1.655363,15
+Queen,LuaJIT 2.1,1.655576,16
+Queen,LuaJIT 2.1,1.653188,17
+Queen,LuaJIT 2.1,1.651849,18
+Queen,LuaJIT 2.1,1.650182,19
+Queen,LuaJIT 2.1,1.658988,20
+Queen,LuaJIT 2.1,1.648530,21
+Queen,LuaJIT 2.1,1.653000,22
+Queen,LuaJIT 2.1,1.654770,23
+Queen,LuaJIT 2.1,1.655142,24
+Queen,LuaJIT 2.1,1.652842,25
+Queen,LuaJIT 2.1,1.652075,26
+Queen,LuaJIT 2.1,1.649926,27
+Queen,LuaJIT 2.1,1.655346,28
+Queen,LuaJIT 2.1,1.649493,29
+Queen,LuaJIT 2.1,1.653239,30
+Queen,LuaJIT 2.1,1.654240,31
+Queen,LuaJIT 2.1,1.655140,32
+Queen,LuaJIT 2.1,1.650894,33
+Queen,LuaJIT 2.1,1.652528,34
+Queen,LuaJIT 2.1,1.651796,35
+Queen,LuaJIT 2.1,1.657256,36
+Queen,LuaJIT 2.1,1.650848,37
+Queen,LuaJIT 2.1,1.652773,38
+Queen,LuaJIT 2.1,1.654654,39
+Queen,LuaJIT 2.1,1.654298,40
+Queen,LuaJIT 2.1,1.652294,41
+Queen,LuaJIT 2.1,1.653049,42
+Queen,Lua-C API,3.893583,1
+Queen,Lua-C API,3.900138,2
+Queen,Lua-C API,3.930124,3
+Queen,Lua-C API,3.896724,4
+Queen,Lua-C API,3.900208,5
+Queen,Lua-C API,3.900312,6
+Queen,Lua-C API,3.895493,7
+Queen,Lua-C API,3.893500,8
+Queen,Lua-C API,3.905899,9
+Queen,Lua-C API,3.897085,10
+Queen,Lua-C API,3.898754,11
+Queen,Lua-C API,3.945798,12
+Queen,Lua-C API,3.899867,13
+Queen,Lua-C API,3.897306,14
+Queen,Lua-C API,3.900244,15
+Queen,Lua-C API,3.900919,16
+Queen,Lua-C API,3.902212,17
+Queen,Lua-C API,3.912847,18
+Queen,Lua-C API,3.894009,19
+Queen,Lua-C API,3.895983,20
+Queen,Lua-C API,3.897086,21
+Queen,Lua-C API,3.900928,22
+Queen,Lua-C API,3.894688,23
+Queen,Lua-C API,3.947167,24
+Queen,Lua-C API,3.911502,25
+Queen,Lua-C API,3.899588,26
+Queen,Lua-C API,3.893403,27
+Queen,Lua-C API,3.896370,28
+Queen,Lua-C API,3.901225,29
+Queen,Lua-C API,3.923383,30
+Queen,Lua-C API,3.902449,31
+Queen,Lua-C API,3.953819,32
+Queen,Lua-C API,3.896815,33
+Queen,Lua-C API,3.899752,34
+Queen,Lua-C API,3.896089,35
+Queen,Lua-C API,3.914342,36
+Queen,Lua-C API,3.901405,37
+Queen,Lua-C API,3.897322,38
+Queen,Lua-C API,3.897523,39
+Queen,Lua-C API,3.920707,40
+Queen,Lua-C API,3.896685,41
+Queen,Lua-C API,3.960623,42
+Queen,No Check,1.294070,1
+Queen,No Check,1.296651,2
+Queen,No Check,1.297439,3
+Queen,No Check,1.296695,4
+Queen,No Check,1.295855,5
+Queen,No Check,1.298132,6
+Queen,No Check,1.294011,7
+Queen,No Check,1.314922,8
+Queen,No Check,1.294781,9
+Queen,No Check,1.296683,10
+Queen,No Check,1.295978,11
+Queen,No Check,1.298652,12
+Queen,No Check,1.297690,13
+Queen,No Check,1.294538,14
+Queen,No Check,1.293794,15
+Queen,No Check,1.303080,16
+Queen,No Check,1.289773,17
+Queen,No Check,1.298971,18
+Queen,No Check,1.301204,19
+Queen,No Check,1.297754,20
+Queen,No Check,1.295179,21
+Queen,No Check,1.298646,22
+Queen,No Check,1.296317,23
+Queen,No Check,1.316943,24
+Queen,No Check,1.293806,25
+Queen,No Check,1.307899,26
+Queen,No Check,1.298870,27
+Queen,No Check,1.300131,28
+Queen,No Check,1.296283,29
+Queen,No Check,1.296319,30
+Queen,No Check,1.297271,31
+Queen,No Check,1.303063,32
+Queen,No Check,1.293431,33
+Queen,No Check,1.296665,34
+Queen,No Check,1.299211,35
+Queen,No Check,1.296578,36
+Queen,No Check,1.320058,37
+Queen,No Check,1.296662,38
+Queen,No Check,1.292355,39
+Queen,No Check,1.304966,40
+Queen,No Check,1.293528,41
+Queen,No Check,1.297447,42
+Queen,C,0.72,1
+Queen,C,0.72,2
+Queen,C,0.72,3
+Queen,C,0.72,4
+Queen,C,0.72,5
+Queen,C,0.72,6
+Queen,C,0.72,7
+Queen,C,0.72,8
+Queen,C,0.72,9
+Queen,C,0.72,10
+Queen,C,0.72,11
+Queen,C,0.72,12
+Queen,C,0.72,13
+Queen,C,0.72,14
+Queen,C,0.72,15
+Queen,C,0.72,16
+Queen,C,0.72,17
+Queen,C,0.72,18
+Queen,C,0.72,19
+Queen,C,0.72,20
+Queen,C,0.72,21
+Queen,C,0.72,22
+Queen,C,0.72,23
+Queen,C,0.72,24
+Queen,C,0.72,25
+Queen,C,0.72,26
+Queen,C,0.72,27
+Queen,C,0.72,28
+Queen,C,0.72,29
+Queen,C,0.72,30
+Queen,C,0.72,31
+Queen,C,0.72,32
+Queen,C,0.72,33
+Queen,C,0.72,34
+Queen,C,0.72,35
+Queen,C,0.72,36
+Queen,C,0.72,37
+Queen,C,0.72,38
+Queen,C,0.72,39
+Queen,C,0.72,40
+Queen,C,0.72,41
+Queen,C,0.72,42

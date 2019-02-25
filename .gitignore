@@ -11,9 +11,9 @@ cbenchmarks/*
 !cbenchmarks/makefile
 
 experiments/.Rhistory
-experiments/*.csv
-experiments/*.pdf
-experiments/*.tex
+#experiments/*.csv
+#experiments/*.pdf
+#experiments/*.tex
 
 .Rproj.user
-*.Rproj
+#*.Rproj

@@ -1,0 +1,253 @@
+Benchmark,Implementation,Time,Seq
+Centroid,Pallene,3.673471,1
+Centroid,Pallene,3.672719,2
+Centroid,Pallene,3.671549,3
+Centroid,Pallene,3.675413,4
+Centroid,Pallene,3.674501,5
+Centroid,Pallene,3.672702,6
+Centroid,Pallene,3.648932,7
+Centroid,Pallene,3.674362,8
+Centroid,Pallene,3.673936,9
+Centroid,Pallene,3.689353,10
+Centroid,Pallene,3.673031,11
+Centroid,Pallene,3.671763,12
+Centroid,Pallene,3.674529,13
+Centroid,Pallene,3.675335,14
+Centroid,Pallene,3.675084,15
+Centroid,Pallene,3.674648,16
+Centroid,Pallene,3.674789,17
+Centroid,Pallene,3.673064,18
+Centroid,Pallene,3.674979,19
+Centroid,Pallene,3.672211,20
+Centroid,Pallene,3.673965,21
+Centroid,Pallene,3.674519,22
+Centroid,Pallene,3.673051,23
+Centroid,Pallene,3.671615,24
+Centroid,Pallene,3.672113,25
+Centroid,Pallene,3.674840,26
+Centroid,Pallene,3.671353,27
+Centroid,Pallene,3.674911,28
+Centroid,Pallene,3.672843,29
+Centroid,Pallene,3.675091,30
+Centroid,Pallene,3.734730,31
+Centroid,Pallene,3.674416,32
+Centroid,Pallene,3.674550,33
+Centroid,Pallene,3.675602,34
+Centroid,Pallene,3.674707,35
+Centroid,Pallene,3.674918,36
+Centroid,Pallene,3.676852,37
+Centroid,Pallene,3.673728,38
+Centroid,Pallene,3.673659,39
+Centroid,Pallene,3.674033,40
+Centroid,Pallene,3.673941,41
+Centroid,Pallene,3.674433,42
+Centroid,Lua 5.4,18.620931,1
+Centroid,Lua 5.4,18.612841,2
+Centroid,Lua 5.4,18.623152,3
+Centroid,Lua 5.4,18.613365,4
+Centroid,Lua 5.4,18.610748,5
+Centroid,Lua 5.4,18.624708,6
+Centroid,Lua 5.4,18.611616,7
+Centroid,Lua 5.4,18.622880,8
+Centroid,Lua 5.4,18.617518,9
+Centroid,Lua 5.4,18.647478,10
+Centroid,Lua 5.4,18.636531,11
+Centroid,Lua 5.4,18.674350,12
+Centroid,Lua 5.4,18.620121,13
+Centroid,Lua 5.4,18.613613,14
+Centroid,Lua 5.4,18.635643,15
+Centroid,Lua 5.4,18.621022,16
+Centroid,Lua 5.4,18.623799,17
+Centroid,Lua 5.4,18.639905,18
+Centroid,Lua 5.4,18.620822,19
+Centroid,Lua 5.4,18.622198,20
+Centroid,Lua 5.4,18.622674,21
+Centroid,Lua 5.4,18.609997,22
+Centroid,Lua 5.4,18.636263,23
+Centroid,Lua 5.4,18.611649,24
+Centroid,Lua 5.4,18.618577,25
+Centroid,Lua 5.4,18.633101,26
+Centroid,Lua 5.4,18.636734,27
+Centroid,Lua 5.4,18.620292,28
+Centroid,Lua 5.4,18.622091,29
+Centroid,Lua 5.4,18.613384,30
+Centroid,Lua 5.4,18.620616,31
+Centroid,Lua 5.4,18.619634,32
+Centroid,Lua 5.4,18.624927,33
+Centroid,Lua 5.4,18.623581,34
+Centroid,Lua 5.4,18.621530,35
+Centroid,Lua 5.4,18.634511,36
+Centroid,Lua 5.4,18.620561,37
+Centroid,Lua 5.4,18.615234,38
+Centroid,Lua 5.4,18.617226,39
+Centroid,Lua 5.4,18.638572,40
+Centroid,Lua 5.4,18.615343,41
+Centroid,Lua 5.4,18.614258,42
+Centroid,LuaJIT 2.1,2.642212,1
+Centroid,LuaJIT 2.1,2.642371,2
+Centroid,LuaJIT 2.1,2.646340,3
+Centroid,LuaJIT 2.1,2.644327,4
+Centroid,LuaJIT 2.1,2.643216,5
+Centroid,LuaJIT 2.1,2.646564,6
+Centroid,LuaJIT 2.1,2.643453,7
+Centroid,LuaJIT 2.1,2.646217,8
+Centroid,LuaJIT 2.1,2.651329,9
+Centroid,LuaJIT 2.1,2.647477,10
+Centroid,LuaJIT 2.1,2.644084,11
+Centroid,LuaJIT 2.1,2.643828,12
+Centroid,LuaJIT 2.1,2.644161,13
+Centroid,LuaJIT 2.1,2.643319,14
+Centroid,LuaJIT 2.1,2.641792,15
+Centroid,LuaJIT 2.1,2.641843,16
+Centroid,LuaJIT 2.1,2.645445,17
+Centroid,LuaJIT 2.1,2.644196,18
+Centroid,LuaJIT 2.1,2.646248,19
+Centroid,LuaJIT 2.1,2.643498,20
+Centroid,LuaJIT 2.1,2.644886,21
+Centroid,LuaJIT 2.1,2.646979,22
+Centroid,LuaJIT 2.1,2.644829,23
+Centroid,LuaJIT 2.1,2.644330,24
+Centroid,LuaJIT 2.1,2.642286,25
+Centroid,LuaJIT 2.1,2.646615,26
+Centroid,LuaJIT 2.1,2.642860,27
+Centroid,LuaJIT 2.1,2.642441,28
+Centroid,LuaJIT 2.1,2.646607,29
+Centroid,LuaJIT 2.1,2.642486,30
+Centroid,LuaJIT 2.1,2.646843,31
+Centroid,LuaJIT 2.1,2.643021,32
+Centroid,LuaJIT 2.1,2.646074,33
+Centroid,LuaJIT 2.1,2.645926,34
+Centroid,LuaJIT 2.1,2.648434,35
+Centroid,LuaJIT 2.1,2.647138,36
+Centroid,LuaJIT 2.1,2.644195,37
+Centroid,LuaJIT 2.1,2.642702,38
+Centroid,LuaJIT 2.1,2.646437,39
+Centroid,LuaJIT 2.1,2.642698,40
+Centroid,LuaJIT 2.1,2.644918,41
+Centroid,LuaJIT 2.1,2.645402,42
+Centroid,Lua-C API,24.746985,1
+Centroid,Lua-C API,24.751527,2
+Centroid,Lua-C API,24.744402,3
+Centroid,Lua-C API,24.724353,4
+Centroid,Lua-C API,24.714087,5
+Centroid,Lua-C API,24.743792,6
+Centroid,Lua-C API,24.724314,7
+Centroid,Lua-C API,24.723435,8
+Centroid,Lua-C API,25.428391,9
+Centroid,Lua-C API,24.727333,10
+Centroid,Lua-C API,25.459505,11
+Centroid,Lua-C API,24.712113,12
+Centroid,Lua-C API,24.740653,13
+Centroid,Lua-C API,24.746975,14
+Centroid,Lua-C API,24.724726,15
+Centroid,Lua-C API,24.722287,16
+Centroid,Lua-C API,24.718173,17
+Centroid,Lua-C API,24.719034,18
+Centroid,Lua-C API,24.735529,19
+Centroid,Lua-C API,24.719729,20
+Centroid,Lua-C API,24.747381,21
+Centroid,Lua-C API,24.710878,22
+Centroid,Lua-C API,24.761630,23
+Centroid,Lua-C API,25.632341,24
+Centroid,Lua-C API,24.755357,25
+Centroid,Lua-C API,24.745108,26
+Centroid,Lua-C API,24.742886,27
+Centroid,Lua-C API,24.749811,28
+Centroid,Lua-C API,24.729793,29
+Centroid,Lua-C API,24.751149,30
+Centroid,Lua-C API,24.714777,31
+Centroid,Lua-C API,24.756551,32
+Centroid,Lua-C API,24.720336,33
+Centroid,Lua-C API,24.734298,34
+Centroid,Lua-C API,25.682999,35
+Centroid,Lua-C API,24.728082,36
+Centroid,Lua-C API,24.732033,37
+Centroid,Lua-C API,24.749176,38
+Centroid,Lua-C API,24.755751,39
+Centroid,Lua-C API,24.767166,40
+Centroid,Lua-C API,24.726577,41
+Centroid,Lua-C API,24.726172,42
+Centroid,No Check,5.390064,1
+Centroid,No Check,3.440572,2
+Centroid,No Check,3.446918,3
+Centroid,No Check,3.430530,4
+Centroid,No Check,3.439141,5
+Centroid,No Check,3.441391,6
+Centroid,No Check,3.440832,7
+Centroid,No Check,3.441148,8
+Centroid,No Check,3.437668,9
+Centroid,No Check,3.442431,10
+Centroid,No Check,3.439226,11
+Centroid,No Check,3.439107,12
+Centroid,No Check,3.449121,13
+Centroid,No Check,3.446964,14
+Centroid,No Check,3.439211,15
+Centroid,No Check,3.447166,16
+Centroid,No Check,3.445388,17
+Centroid,No Check,3.439870,18
+Centroid,No Check,3.479488,19
+Centroid,No Check,3.456966,20
+Centroid,No Check,3.457990,21
+Centroid,No Check,3.438952,22
+Centroid,No Check,3.454236,23
+Centroid,No Check,3.447469,24
+Centroid,No Check,3.441805,25
+Centroid,No Check,3.438883,26
+Centroid,No Check,3.445976,27
+Centroid,No Check,3.443917,28
+Centroid,No Check,3.439787,29
+Centroid,No Check,3.487979,30
+Centroid,No Check,3.450250,31
+Centroid,No Check,3.439550,32
+Centroid,No Check,3.450776,33
+Centroid,No Check,3.638973,34
+Centroid,No Check,3.586320,35
+Centroid,No Check,3.441140,36
+Centroid,No Check,3.443881,37
+Centroid,No Check,3.440174,38
+Centroid,No Check,3.441494,39
+Centroid,No Check,3.608535,40
+Centroid,No Check,3.438230,41
+Centroid,No Check,3.541822,42
+Centroid,C,1.05,1
+Centroid,C,1.03,2
+Centroid,C,1.02,3
+Centroid,C,1.02,4
+Centroid,C,1.02,5
+Centroid,C,1.04,6
+Centroid,C,1.02,7
+Centroid,C,1.03,8
+Centroid,C,1.02,9
+Centroid,C,1.02,10
+Centroid,C,1.03,11
+Centroid,C,1.03,12
+Centroid,C,1.03,13
+Centroid,C,1.03,14
+Centroid,C,1.05,15
+Centroid,C,1.02,16
+Centroid,C,1.03,17
+Centroid,C,1.02,18
+Centroid,C,1.04,19
+Centroid,C,1.02,20
+Centroid,C,1.03,21
+Centroid,C,1.04,22
+Centroid,C,1.03,23
+Centroid,C,1.03,24
+Centroid,C,1.02,25
+Centroid,C,1.04,26
+Centroid,C,1.02,27
+Centroid,C,1.02,28
+Centroid,C,1.02,29
+Centroid,C,1.02,30
+Centroid,C,1.04,31
+Centroid,C,1.03,32
+Centroid,C,1.02,33
+Centroid,C,1.02,34
+Centroid,C,1.03,35
+Centroid,C,1.02,36
+Centroid,C,1.03,37
+Centroid,C,1.04,38
+Centroid,C,1.03,39
+Centroid,C,1.04,40
+Centroid,C,1.04,41
+Centroid,C,1.03,42

@@ -1,0 +1,254 @@
+Benchmark,Implementation,Time,Seq
+Sieve,Pallene,2.814300,1
+Sieve,Pallene,2.840148,2
+Sieve,Pallene,2.852645,3
+Sieve,Pallene,2.904198,4
+Sieve,Pallene,3.085736,5
+Sieve,Pallene,3.016640,6
+Sieve,Pallene,3.110748,7
+Sieve,Pallene,2.936247,8
+Sieve,Pallene,2.948946,9
+Sieve,Pallene,3.051626,10
+Sieve,Pallene,3.019227,11
+Sieve,Pallene,3.161405,12
+Sieve,Pallene,3.535239,13
+Sieve,Pallene,3.307642,14
+Sieve,Pallene,3.136085,15
+Sieve,Pallene,3.104894,16
+Sieve,Pallene,3.259964,17
+Sieve,Pallene,3.234634,18
+Sieve,Pallene,3.179553,19
+Sieve,Pallene,2.972278,20
+Sieve,Pallene,3.187450,21
+Sieve,Pallene,3.260388,22
+Sieve,Pallene,3.345326,23
+Sieve,Pallene,3.187524,24
+Sieve,Pallene,3.200134,25
+Sieve,Pallene,3.099066,26
+Sieve,Pallene,3.102965,27
+Sieve,Pallene,3.095434,28
+Sieve,Pallene,3.116779,29
+Sieve,Pallene,3.294145,30
+Sieve,Pallene,3.289841,31
+Sieve,Pallene,3.112181,32
+Sieve,Pallene,3.030784,33
+Sieve,Pallene,3.204342,34
+Sieve,Pallene,3.139107,35
+Sieve,Pallene,3.153576,36
+Sieve,Pallene,3.138253,37
+Sieve,Pallene,3.193403,38
+Sieve,Pallene,3.197711,39
+Sieve,Pallene,3.279836,40
+Sieve,Pallene,3.093421,41
+Sieve,Pallene,3.178374,42
+Sieve,Lua 5.4,11.180346,1
+Sieve,Lua 5.4,11.298745,2
+Sieve,Lua 5.4,10.932170,3
+Sieve,Lua 5.4,11.993997,4
+Sieve,Lua 5.4,11.211746,5
+Sieve,Lua 5.4,11.143550,6
+Sieve,Lua 5.4,11.205036,7
+Sieve,Lua 5.4,10.991980,8
+Sieve,Lua 5.4,10.902935,9
+Sieve,Lua 5.4,11.179943,10
+Sieve,Lua 5.4,11.365565,11
+Sieve,Lua 5.4,11.204405,12
+Sieve,Lua 5.4,11.332913,13
+Sieve,Lua 5.4,11.261102,14
+Sieve,Lua 5.4,11.252504,15
+Sieve,Lua 5.4,11.346777,16
+Sieve,Lua 5.4,11.375828,17
+Sieve,Lua 5.4,11.185598,18
+Sieve,Lua 5.4,11.283629,19
+Sieve,Lua 5.4,11.354893,20
+Sieve,Lua 5.4,11.180724,21
+Sieve,Lua 5.4,11.060787,22
+Sieve,Lua 5.4,11.124204,23
+Sieve,Lua 5.4,11.095109,24
+Sieve,Lua 5.4,11.254303,25
+Sieve,Lua 5.4,11.364498,26
+Sieve,Lua 5.4,11.209785,27
+Sieve,Lua 5.4,11.527834,28
+Sieve,Lua 5.4,11.113698,29
+Sieve,Lua 5.4,11.231114,30
+Sieve,Lua 5.4,11.148142,31
+Sieve,Lua 5.4,11.361472,32
+Sieve,Lua 5.4,11.247210,33
+Sieve,Lua 5.4,11.304366,34
+Sieve,Lua 5.4,11.323312,35
+Sieve,Lua 5.4,11.263997,36
+Sieve,Lua 5.4,11.333347,37
+Sieve,Lua 5.4,11.206681,38
+Sieve,Lua 5.4,11.231526,39
+Sieve,Lua 5.4,11.131641,40
+Sieve,Lua 5.4,11.053395,41
+Sieve,Lua 5.4,11.206228,42
+Sieve,LuaJIT 2.1,2.668510,1
+Sieve,LuaJIT 2.1,2.667230,2
+Sieve,LuaJIT 2.1,2.652142,3
+Sieve,LuaJIT 2.1,2.648054,4
+Sieve,LuaJIT 2.1,2.654505,5
+Sieve,LuaJIT 2.1,2.659388,6
+Sieve,LuaJIT 2.1,2.660877,7
+Sieve,LuaJIT 2.1,2.657471,8
+Sieve,LuaJIT 2.1,2.649595,9
+Sieve,LuaJIT 2.1,2.647580,10
+Sieve,LuaJIT 2.1,2.651597,11
+Sieve,LuaJIT 2.1,2.657944,12
+Sieve,LuaJIT 2.1,2.651282,13
+Sieve,LuaJIT 2.1,2.666491,14
+Sieve,LuaJIT 2.1,2.651418,15
+Sieve,LuaJIT 2.1,2.649468,16
+Sieve,LuaJIT 2.1,2.644260,17
+Sieve,LuaJIT 2.1,2.664410,18
+Sieve,LuaJIT 2.1,2.646725,19
+Sieve,LuaJIT 2.1,2.644674,20
+Sieve,LuaJIT 2.1,2.655749,21
+Sieve,LuaJIT 2.1,2.652021,22
+Sieve,LuaJIT 2.1,2.653285,23
+Sieve,LuaJIT 2.1,2.631595,24
+Sieve,LuaJIT 2.1,2.666519,25
+Sieve,LuaJIT 2.1,2.658477,26
+Sieve,LuaJIT 2.1,2.648392,27
+Sieve,LuaJIT 2.1,2.650193,28
+Sieve,LuaJIT 2.1,2.649612,29
+Sieve,LuaJIT 2.1,2.659416,30
+Sieve,LuaJIT 2.1,2.651102,31
+Sieve,LuaJIT 2.1,2.645213,32
+Sieve,LuaJIT 2.1,2.668612,33
+Sieve,LuaJIT 2.1,2.646350,34
+Sieve,LuaJIT 2.1,2.655124,35
+Sieve,LuaJIT 2.1,2.661765,36
+Sieve,LuaJIT 2.1,2.666106,37
+Sieve,LuaJIT 2.1,2.681979,38
+Sieve,LuaJIT 2.1,2.674443,39
+Sieve,LuaJIT 2.1,2.654898,40
+Sieve,LuaJIT 2.1,2.652418,41
+Sieve,LuaJIT 2.1,2.644704,42
+Sieve,Lua-C API,10.921058,1
+Sieve,Lua-C API,10.711725,2
+Sieve,Lua-C API,10.622414,3
+Sieve,Lua-C API,10.950162,4
+Sieve,Lua-C API,10.761756,5
+Sieve,Lua-C API,11.145184,6
+Sieve,Lua-C API,10.571918,7
+Sieve,Lua-C API,10.910550,8
+Sieve,Lua-C API,10.549184,9
+Sieve,Lua-C API,10.771246,10
+Sieve,Lua-C API,10.717561,11
+Sieve,Lua-C API,10.911981,12
+Sieve,Lua-C API,10.424504,13
+Sieve,Lua-C API,10.787463,14
+Sieve,Lua-C API,10.623972,15
+Sieve,Lua-C API,10.633855,16
+Sieve,Lua-C API,10.720087,17
+Sieve,Lua-C API,10.730673,18
+Sieve,Lua-C API,10.757229,19
+Sieve,Lua-C API,10.763970,20
+Sieve,Lua-C API,11.035849,21
+Sieve,Lua-C API,10.968852,22
+Sieve,Lua-C API,10.532730,23
+Sieve,Lua-C API,10.583040,24
+Sieve,Lua-C API,11.162291,25
+Sieve,Lua-C API,10.615632,26
+Sieve,Lua-C API,10.562740,27
+Sieve,Lua-C API,10.877186,28
+Sieve,Lua-C API,11.268922,29
+Sieve,Lua-C API,10.638147,30
+Sieve,Lua-C API,10.834800,31
+Sieve,Lua-C API,10.626196,32
+Sieve,Lua-C API,10.709216,33
+Sieve,Lua-C API,10.412589,34
+Sieve,Lua-C API,10.679048,35
+Sieve,Lua-C API,10.715938,36
+Sieve,Lua-C API,10.653203,37
+Sieve,Lua-C API,10.468646,38
+Sieve,Lua-C API,10.741003,39
+Sieve,Lua-C API,10.631213,40
+Sieve,Lua-C API,10.654994,41
+Sieve,Lua-C API,10.932522,42
+Sieve,No Check,2.849727,1
+Sieve,No Check,2.962383,2
+Sieve,No Check,3.015171,3
+Sieve,No Check,2.921157,4
+Sieve,No Check,2.930672,5
+Sieve,No Check,2.919673,6
+Sieve,No Check,2.937170,7
+Sieve,No Check,2.981376,8
+Sieve,No Check,2.913053,9
+Sieve,No Check,3.055563,10
+Sieve,No Check,3.250327,11
+Sieve,No Check,3.040508,12
+Sieve,No Check,3.021716,13
+Sieve,No Check,3.039992,14
+Sieve,No Check,3.147980,15
+Sieve,No Check,3.090834,16
+Sieve,No Check,3.329053,17
+Sieve,No Check,3.086108,18
+Sieve,No Check,3.180021,19
+Sieve,No Check,3.059459,20
+Sieve,No Check,3.012943,21
+Sieve,No Check,2.973318,22
+Sieve,No Check,2.875606,23
+Sieve,No Check,3.092031,24
+Sieve,No Check,2.970370,25
+Sieve,No Check,3.034331,26
+Sieve,No Check,3.108027,27
+Sieve,No Check,3.023739,28
+Sieve,No Check,3.123615,29
+Sieve,No Check,2.969484,30
+Sieve,No Check,3.015191,31
+Sieve,No Check,2.936501,32
+Sieve,No Check,3.062956,33
+Sieve,No Check,2.925324,34
+Sieve,No Check,2.897992,35
+Sieve,No Check,2.966695,36
+Sieve,No Check,2.776638,37
+Sieve,No Check,2.987865,38
+Sieve,No Check,3.128877,39
+Sieve,No Check,3.072342,40
+Sieve,No Check,2.991153,41
+Sieve,No Check,3.124123,42
+Sieve,C,0.84,1
+Sieve,C,0.84,2
+Sieve,C,0.84,3
+Sieve,C,0.84,4
+Sieve,C,0.84,5
+Sieve,C,0.84,6
+Sieve,C,0.84,7
+Sieve,C,0.84,8
+Sieve,C,0.84,9
+Sieve,C,0.84,10
+Sieve,C,0.84,11
+Sieve,C,0.84,12
+Sieve,C,0.84,13
+Sieve,C,0.84,14
+Sieve,C,0.84,15
+Sieve,C,0.84,16
+Sieve,C,0.84,17
+Sieve,C,0.84,18
+Sieve,C,0.84,19
+Sieve,C,0.84,20
+Sieve,C,0.84,21
+Sieve,C,0.84,22
+Sieve,C,0.84,23
+Sieve,C,0.84,24
+Sieve,C,0.84,25
+Sieve,C,0.84,26
+Sieve,C,0.84,27
+Sieve,C,0.84,28
+Sieve,C,0.84,29
+Sieve,C,0.84,30
+Sieve,C,0.84,31
+Sieve,C,0.84,32
+Sieve,C,0.84,33
+Sieve,C,0.84,34
+Sieve,C,0.84,35
+Sieve,C,0.84,36
+Sieve,C,0.84,37
+Sieve,C,0.84,38
+Sieve,C,0.84,39
+Sieve,C,0.84,40
+Sieve,C,0.84,41
+Sieve,C,0.84,42
+

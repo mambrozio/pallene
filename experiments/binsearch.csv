@@ -1,0 +1,253 @@
+Benchmark,Implementation,Time,Seq
+Binsearch,Pallene,1.428830,1
+Binsearch,Pallene,1.432650,2
+Binsearch,Pallene,1.433830,3
+Binsearch,Pallene,1.425552,4
+Binsearch,Pallene,1.432686,5
+Binsearch,Pallene,1.426249,6
+Binsearch,Pallene,1.425962,7
+Binsearch,Pallene,1.429818,8
+Binsearch,Pallene,1.432479,9
+Binsearch,Pallene,1.430193,10
+Binsearch,Pallene,1.440444,11
+Binsearch,Pallene,1.431325,12
+Binsearch,Pallene,1.453102,13
+Binsearch,Pallene,1.428302,14
+Binsearch,Pallene,1.428105,15
+Binsearch,Pallene,1.431866,16
+Binsearch,Pallene,1.433238,17
+Binsearch,Pallene,1.429811,18
+Binsearch,Pallene,1.429977,19
+Binsearch,Pallene,1.425224,20
+Binsearch,Pallene,1.433503,21
+Binsearch,Pallene,1.421065,22
+Binsearch,Pallene,1.440827,23
+Binsearch,Pallene,1.428612,24
+Binsearch,Pallene,1.517514,25
+Binsearch,Pallene,1.430565,26
+Binsearch,Pallene,1.429940,27
+Binsearch,Pallene,1.428267,28
+Binsearch,Pallene,1.468240,29
+Binsearch,Pallene,1.429658,30
+Binsearch,Pallene,1.462462,31
+Binsearch,Pallene,1.438398,32
+Binsearch,Pallene,1.432170,33
+Binsearch,Pallene,1.434988,34
+Binsearch,Pallene,1.434509,35
+Binsearch,Pallene,1.427002,36
+Binsearch,Pallene,1.434241,37
+Binsearch,Pallene,1.488087,38
+Binsearch,Pallene,1.426509,39
+Binsearch,Pallene,1.432795,40
+Binsearch,Pallene,1.430605,41
+Binsearch,Pallene,1.428534,42
+Binsearch,Lua 5.4,11.055204,1
+Binsearch,Lua 5.4,11.084629,2
+Binsearch,Lua 5.4,11.056065,3
+Binsearch,Lua 5.4,11.050208,4
+Binsearch,Lua 5.4,11.065874,5
+Binsearch,Lua 5.4,11.152722,6
+Binsearch,Lua 5.4,11.050347,7
+Binsearch,Lua 5.4,11.039634,8
+Binsearch,Lua 5.4,11.078800,9
+Binsearch,Lua 5.4,11.075912,10
+Binsearch,Lua 5.4,11.050357,11
+Binsearch,Lua 5.4,11.096716,12
+Binsearch,Lua 5.4,11.070628,13
+Binsearch,Lua 5.4,11.106562,14
+Binsearch,Lua 5.4,11.049692,15
+Binsearch,Lua 5.4,11.048757,16
+Binsearch,Lua 5.4,11.040937,17
+Binsearch,Lua 5.4,11.045764,18
+Binsearch,Lua 5.4,11.046621,19
+Binsearch,Lua 5.4,11.158247,20
+Binsearch,Lua 5.4,11.073485,21
+Binsearch,Lua 5.4,11.046621,22
+Binsearch,Lua 5.4,11.054045,23
+Binsearch,Lua 5.4,11.052027,24
+Binsearch,Lua 5.4,11.168163,25
+Binsearch,Lua 5.4,11.053119,26
+Binsearch,Lua 5.4,11.064986,27
+Binsearch,Lua 5.4,11.081495,28
+Binsearch,Lua 5.4,11.117404,29
+Binsearch,Lua 5.4,11.053320,30
+Binsearch,Lua 5.4,11.045058,31
+Binsearch,Lua 5.4,11.048057,32
+Binsearch,Lua 5.4,11.051282,33
+Binsearch,Lua 5.4,11.049798,34
+Binsearch,Lua 5.4,11.046971,35
+Binsearch,Lua 5.4,11.111015,36
+Binsearch,Lua 5.4,11.047689,37
+Binsearch,Lua 5.4,11.047924,38
+Binsearch,Lua 5.4,11.132489,39
+Binsearch,Lua 5.4,11.057522,40
+Binsearch,Lua 5.4,11.060759,41
+Binsearch,Lua 5.4,11.053476,42
+Binsearch,LuaJIT 2.1,4.667949,1
+Binsearch,LuaJIT 2.1,4.610794,2
+Binsearch,LuaJIT 2.1,4.723288,3
+Binsearch,LuaJIT 2.1,4.664475,4
+Binsearch,LuaJIT 2.1,4.741837,5
+Binsearch,LuaJIT 2.1,4.721604,6
+Binsearch,LuaJIT 2.1,4.890789,7
+Binsearch,LuaJIT 2.1,4.694291,8
+Binsearch,LuaJIT 2.1,4.738653,9
+Binsearch,LuaJIT 2.1,4.807754,10
+Binsearch,LuaJIT 2.1,4.873407,11
+Binsearch,LuaJIT 2.1,4.592075,12
+Binsearch,LuaJIT 2.1,4.770987,13
+Binsearch,LuaJIT 2.1,4.675949,14
+Binsearch,LuaJIT 2.1,4.705667,15
+Binsearch,LuaJIT 2.1,4.707831,16
+Binsearch,LuaJIT 2.1,4.812833,17
+Binsearch,LuaJIT 2.1,4.740548,18
+Binsearch,LuaJIT 2.1,4.762350,19
+Binsearch,LuaJIT 2.1,4.737399,20
+Binsearch,LuaJIT 2.1,4.945370,21
+Binsearch,LuaJIT 2.1,4.643838,22
+Binsearch,LuaJIT 2.1,4.658807,23
+Binsearch,LuaJIT 2.1,4.715255,24
+Binsearch,LuaJIT 2.1,4.688326,25
+Binsearch,LuaJIT 2.1,4.795256,26
+Binsearch,LuaJIT 2.1,4.710027,27
+Binsearch,LuaJIT 2.1,4.887459,28
+Binsearch,LuaJIT 2.1,4.718957,29
+Binsearch,LuaJIT 2.1,4.740415,30
+Binsearch,LuaJIT 2.1,4.648815,31
+Binsearch,LuaJIT 2.1,4.603481,32
+Binsearch,LuaJIT 2.1,4.748447,33
+Binsearch,LuaJIT 2.1,4.736776,34
+Binsearch,LuaJIT 2.1,4.663768,35
+Binsearch,LuaJIT 2.1,4.811890,36
+Binsearch,LuaJIT 2.1,4.827594,37
+Binsearch,LuaJIT 2.1,4.697554,38
+Binsearch,LuaJIT 2.1,4.809942,39
+Binsearch,LuaJIT 2.1,4.765668,40
+Binsearch,LuaJIT 2.1,4.752779,41
+Binsearch,LuaJIT 2.1,4.779791,42
+Binsearch,Lua-C API,3.722812,1
+Binsearch,Lua-C API,3.644208,2
+Binsearch,Lua-C API,3.630845,3
+Binsearch,Lua-C API,3.638976,4
+Binsearch,Lua-C API,3.729600,5
+Binsearch,Lua-C API,3.619744,6
+Binsearch,Lua-C API,3.651786,7
+Binsearch,Lua-C API,3.633145,8
+Binsearch,Lua-C API,3.620875,9
+Binsearch,Lua-C API,3.616319,10
+Binsearch,Lua-C API,3.626318,11
+Binsearch,Lua-C API,3.619894,12
+Binsearch,Lua-C API,3.980714,13
+Binsearch,Lua-C API,3.622280,14
+Binsearch,Lua-C API,3.667534,15
+Binsearch,Lua-C API,3.616571,16
+Binsearch,Lua-C API,3.809648,17
+Binsearch,Lua-C API,3.640798,18
+Binsearch,Lua-C API,3.621644,19
+Binsearch,Lua-C API,3.629294,20
+Binsearch,Lua-C API,3.628649,21
+Binsearch,Lua-C API,3.627441,22
+Binsearch,Lua-C API,3.643360,23
+Binsearch,Lua-C API,3.671702,24
+Binsearch,Lua-C API,3.645162,25
+Binsearch,Lua-C API,3.634435,26
+Binsearch,Lua-C API,3.632587,27
+Binsearch,Lua-C API,3.891508,28
+Binsearch,Lua-C API,3.640280,29
+Binsearch,Lua-C API,3.675109,30
+Binsearch,Lua-C API,3.645517,31
+Binsearch,Lua-C API,3.620593,32
+Binsearch,Lua-C API,3.625411,33
+Binsearch,Lua-C API,3.625941,34
+Binsearch,Lua-C API,3.638567,35
+Binsearch,Lua-C API,3.765674,36
+Binsearch,Lua-C API,3.632148,37
+Binsearch,Lua-C API,3.632973,38
+Binsearch,Lua-C API,3.632140,39
+Binsearch,Lua-C API,3.630770,40
+Binsearch,Lua-C API,3.772691,41
+Binsearch,Lua-C API,3.619564,42
+Binsearch,No Check,1.398199,1
+Binsearch,No Check,1.399318,2
+Binsearch,No Check,1.398106,3
+Binsearch,No Check,1.429121,4
+Binsearch,No Check,1.425834,5
+Binsearch,No Check,1.392899,6
+Binsearch,No Check,1.398890,7
+Binsearch,No Check,1.393953,8
+Binsearch,No Check,1.406512,9
+Binsearch,No Check,1.401275,10
+Binsearch,No Check,1.421566,11
+Binsearch,No Check,1.396071,12
+Binsearch,No Check,1.403983,13
+Binsearch,No Check,1.407328,14
+Binsearch,No Check,1.398824,15
+Binsearch,No Check,1.393696,16
+Binsearch,No Check,1.397706,17
+Binsearch,No Check,1.393297,18
+Binsearch,No Check,1.396134,19
+Binsearch,No Check,1.416465,20
+Binsearch,No Check,1.397643,21
+Binsearch,No Check,1.395436,22
+Binsearch,No Check,1.451533,23
+Binsearch,No Check,1.439997,24
+Binsearch,No Check,1.400908,25
+Binsearch,No Check,1.430361,26
+Binsearch,No Check,1.406367,27
+Binsearch,No Check,1.416715,28
+Binsearch,No Check,1.419760,29
+Binsearch,No Check,1.399967,30
+Binsearch,No Check,1.434004,31
+Binsearch,No Check,1.398169,32
+Binsearch,No Check,1.400410,33
+Binsearch,No Check,1.400377,34
+Binsearch,No Check,1.395955,35
+Binsearch,No Check,1.398410,36
+Binsearch,No Check,1.396196,37
+Binsearch,No Check,1.394112,38
+Binsearch,No Check,1.414080,39
+Binsearch,No Check,1.402196,40
+Binsearch,No Check,1.396731,41
+Binsearch,No Check,1.484524,42
+Binsearch,C,0.54,1
+Binsearch,C,0.54,2
+Binsearch,C,0.54,3
+Binsearch,C,0.54,4
+Binsearch,C,0.54,5
+Binsearch,C,0.54,6
+Binsearch,C,0.54,7
+Binsearch,C,0.54,8
+Binsearch,C,0.54,9
+Binsearch,C,0.54,10
+Binsearch,C,0.54,11
+Binsearch,C,0.54,12
+Binsearch,C,0.54,13
+Binsearch,C,0.54,14
+Binsearch,C,0.54,15
+Binsearch,C,0.54,16
+Binsearch,C,0.54,17
+Binsearch,C,0.54,18
+Binsearch,C,0.54,19
+Binsearch,C,0.54,20
+Binsearch,C,0.54,21
+Binsearch,C,0.54,22
+Binsearch,C,0.54,23
+Binsearch,C,0.54,24
+Binsearch,C,0.54,25
+Binsearch,C,0.54,26
+Binsearch,C,0.54,27
+Binsearch,C,0.54,28
+Binsearch,C,0.54,29
+Binsearch,C,0.54,30
+Binsearch,C,0.54,31
+Binsearch,C,0.54,32
+Binsearch,C,0.54,33
+Binsearch,C,0.54,34
+Binsearch,C,0.54,35
+Binsearch,C,0.54,36
+Binsearch,C,0.54,37
+Binsearch,C,0.54,38
+Binsearch,C,0.54,39
+Binsearch,C,0.54,40
+Binsearch,C,0.54,41
+Binsearch,C,0.54,42

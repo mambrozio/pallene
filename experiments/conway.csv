@@ -1,0 +1,253 @@
+Benchmark,Implementation,Time,Seq
+Conway,Pallene,2.404669,1
+Conway,Pallene,2.413977,2
+Conway,Pallene,2.432095,3
+Conway,Pallene,2.365026,4
+Conway,Pallene,2.393147,5
+Conway,Pallene,2.421343,6
+Conway,Pallene,2.380342,7
+Conway,Pallene,2.438546,8
+Conway,Pallene,2.402897,9
+Conway,Pallene,2.417407,10
+Conway,Pallene,2.428060,11
+Conway,Pallene,2.389374,12
+Conway,Pallene,2.396601,13
+Conway,Pallene,2.446875,14
+Conway,Pallene,2.429489,15
+Conway,Pallene,2.415336,16
+Conway,Pallene,2.374615,17
+Conway,Pallene,2.460895,18
+Conway,Pallene,2.475214,19
+Conway,Pallene,2.409432,20
+Conway,Pallene,2.428144,21
+Conway,Pallene,2.347185,22
+Conway,Pallene,2.412809,23
+Conway,Pallene,2.439936,24
+Conway,Pallene,2.383029,25
+Conway,Pallene,2.398669,26
+Conway,Pallene,2.431389,27
+Conway,Pallene,2.356967,28
+Conway,Pallene,2.414275,29
+Conway,Pallene,2.371956,30
+Conway,Pallene,2.409231,31
+Conway,Pallene,2.365532,32
+Conway,Pallene,2.414984,33
+Conway,Pallene,2.348793,34
+Conway,Pallene,2.394219,35
+Conway,Pallene,2.418413,36
+Conway,Pallene,2.407312,37
+Conway,Pallene,2.469677,38
+Conway,Pallene,2.367100,39
+Conway,Pallene,2.414918,40
+Conway,Pallene,2.396368,41
+Conway,Pallene,2.410744,42
+Conway,Lua 5.4,4.682550,1
+Conway,Lua 5.4,4.419067,2
+Conway,Lua 5.4,4.393313,3
+Conway,Lua 5.4,4.587624,4
+Conway,Lua 5.4,4.399439,5
+Conway,Lua 5.4,4.497888,6
+Conway,Lua 5.4,4.518749,7
+Conway,Lua 5.4,4.525298,8
+Conway,Lua 5.4,4.459520,9
+Conway,Lua 5.4,4.442792,10
+Conway,Lua 5.4,4.525978,11
+Conway,Lua 5.4,4.501854,12
+Conway,Lua 5.4,4.468613,13
+Conway,Lua 5.4,4.387835,14
+Conway,Lua 5.4,4.436858,15
+Conway,Lua 5.4,4.420310,16
+Conway,Lua 5.4,4.476007,17
+Conway,Lua 5.4,4.460194,18
+Conway,Lua 5.4,4.440094,19
+Conway,Lua 5.4,4.438991,20
+Conway,Lua 5.4,4.389375,21
+Conway,Lua 5.4,4.508587,22
+Conway,Lua 5.4,4.394134,23
+Conway,Lua 5.4,4.397637,24
+Conway,Lua 5.4,4.526039,25
+Conway,Lua 5.4,4.385452,26
+Conway,Lua 5.4,4.415941,27
+Conway,Lua 5.4,4.425233,28
+Conway,Lua 5.4,4.428787,29
+Conway,Lua 5.4,4.455916,30
+Conway,Lua 5.4,4.386283,31
+Conway,Lua 5.4,4.523274,32
+Conway,Lua 5.4,4.401940,33
+Conway,Lua 5.4,4.442374,34
+Conway,Lua 5.4,4.420682,35
+Conway,Lua 5.4,4.448964,36
+Conway,Lua 5.4,4.437175,37
+Conway,Lua 5.4,4.449962,38
+Conway,Lua 5.4,4.475168,39
+Conway,Lua 5.4,4.469265,40
+Conway,Lua 5.4,4.431794,41
+Conway,Lua 5.4,4.521858,42
+Conway,LuaJIT 2.1,4.964514,1
+Conway,LuaJIT 2.1,4.965836,2
+Conway,LuaJIT 2.1,4.934771,3
+Conway,LuaJIT 2.1,4.942128,4
+Conway,LuaJIT 2.1,4.999237,5
+Conway,LuaJIT 2.1,4.951639,6
+Conway,LuaJIT 2.1,4.910629,7
+Conway,LuaJIT 2.1,4.976515,8
+Conway,LuaJIT 2.1,4.990215,9
+Conway,LuaJIT 2.1,4.932996,10
+Conway,LuaJIT 2.1,4.965048,11
+Conway,LuaJIT 2.1,4.982394,12
+Conway,LuaJIT 2.1,4.943876,13
+Conway,LuaJIT 2.1,4.950548,14
+Conway,LuaJIT 2.1,4.926284,15
+Conway,LuaJIT 2.1,4.969980,16
+Conway,LuaJIT 2.1,4.978863,17
+Conway,LuaJIT 2.1,4.992591,18
+Conway,LuaJIT 2.1,5.009465,19
+Conway,LuaJIT 2.1,4.954410,20
+Conway,LuaJIT 2.1,4.987005,21
+Conway,LuaJIT 2.1,4.913337,22
+Conway,LuaJIT 2.1,4.922321,23
+Conway,LuaJIT 2.1,5.167677,24
+Conway,LuaJIT 2.1,4.993220,25
+Conway,LuaJIT 2.1,4.985704,26
+Conway,LuaJIT 2.1,4.920828,27
+Conway,LuaJIT 2.1,4.928154,28
+Conway,LuaJIT 2.1,5.120282,29
+Conway,LuaJIT 2.1,4.980886,30
+Conway,LuaJIT 2.1,4.926574,31
+Conway,LuaJIT 2.1,4.955993,32
+Conway,LuaJIT 2.1,4.948574,33
+Conway,LuaJIT 2.1,4.958753,34
+Conway,LuaJIT 2.1,5.174987,35
+Conway,LuaJIT 2.1,5.110356,36
+Conway,LuaJIT 2.1,4.979421,37
+Conway,LuaJIT 2.1,4.988777,38
+Conway,LuaJIT 2.1,5.009581,39
+Conway,LuaJIT 2.1,4.957864,40
+Conway,LuaJIT 2.1,4.949166,41
+Conway,LuaJIT 2.1,4.968909,42
+Conway,Lua-C API,3.986095,1
+Conway,Lua-C API,3.818756,2
+Conway,Lua-C API,3.906791,3
+Conway,Lua-C API,3.930594,4
+Conway,Lua-C API,3.873835,5
+Conway,Lua-C API,3.909650,6
+Conway,Lua-C API,3.922213,7
+Conway,Lua-C API,3.924464,8
+Conway,Lua-C API,3.849127,9
+Conway,Lua-C API,4.059392,10
+Conway,Lua-C API,3.878767,11
+Conway,Lua-C API,3.792669,12
+Conway,Lua-C API,3.904873,13
+Conway,Lua-C API,3.801321,14
+Conway,Lua-C API,3.918560,15
+Conway,Lua-C API,3.763446,16
+Conway,Lua-C API,3.810966,17
+Conway,Lua-C API,3.909760,18
+Conway,Lua-C API,3.905789,19
+Conway,Lua-C API,3.820427,20
+Conway,Lua-C API,3.899995,21
+Conway,Lua-C API,3.920264,22
+Conway,Lua-C API,3.912343,23
+Conway,Lua-C API,3.846028,24
+Conway,Lua-C API,3.944420,25
+Conway,Lua-C API,3.835874,26
+Conway,Lua-C API,3.803473,27
+Conway,Lua-C API,3.817022,28
+Conway,Lua-C API,3.907624,29
+Conway,Lua-C API,3.773508,30
+Conway,Lua-C API,3.922648,31
+Conway,Lua-C API,3.804466,32
+Conway,Lua-C API,3.815536,33
+Conway,Lua-C API,3.901148,34
+Conway,Lua-C API,3.968177,35
+Conway,Lua-C API,3.833111,36
+Conway,Lua-C API,3.911561,37
+Conway,Lua-C API,3.802942,38
+Conway,Lua-C API,3.865382,39
+Conway,Lua-C API,3.926956,40
+Conway,Lua-C API,3.901747,41
+Conway,Lua-C API,3.960428,42
+Conway,No Check,2.329930,1
+Conway,No Check,2.356120,2
+Conway,No Check,2.434523,3
+Conway,No Check,2.389075,4
+Conway,No Check,2.351509,5
+Conway,No Check,2.436828,6
+Conway,No Check,2.384231,7
+Conway,No Check,2.377964,8
+Conway,No Check,2.347355,9
+Conway,No Check,2.329433,10
+Conway,No Check,2.353726,11
+Conway,No Check,2.345164,12
+Conway,No Check,2.365441,13
+Conway,No Check,2.377611,14
+Conway,No Check,2.416908,15
+Conway,No Check,2.320832,16
+Conway,No Check,2.366245,17
+Conway,No Check,2.371979,18
+Conway,No Check,2.424656,19
+Conway,No Check,2.391380,20
+Conway,No Check,2.337820,21
+Conway,No Check,2.364015,22
+Conway,No Check,2.370188,23
+Conway,No Check,2.362249,24
+Conway,No Check,2.387252,25
+Conway,No Check,2.390105,26
+Conway,No Check,2.366604,27
+Conway,No Check,2.352894,28
+Conway,No Check,2.338073,29
+Conway,No Check,2.356616,30
+Conway,No Check,2.350564,31
+Conway,No Check,2.372638,32
+Conway,No Check,2.425857,33
+Conway,No Check,2.364883,34
+Conway,No Check,2.384406,35
+Conway,No Check,2.438744,36
+Conway,No Check,2.347749,37
+Conway,No Check,2.369183,38
+Conway,No Check,2.338902,39
+Conway,No Check,2.333063,40
+Conway,No Check,2.372006,41
+Conway,No Check,2.374571,42
+Conway,C,0.92,1
+Conway,C,0.95,2
+Conway,C,0.93,3
+Conway,C,0.93,4
+Conway,C,0.93,5
+Conway,C,0.93,6
+Conway,C,0.93,7
+Conway,C,0.93,8
+Conway,C,0.93,9
+Conway,C,0.93,10
+Conway,C,0.93,11
+Conway,C,0.93,12
+Conway,C,0.93,13
+Conway,C,0.93,14
+Conway,C,0.93,15
+Conway,C,0.93,16
+Conway,C,0.93,17
+Conway,C,0.93,18
+Conway,C,0.93,19
+Conway,C,0.93,20
+Conway,C,0.93,21
+Conway,C,0.92,22
+Conway,C,0.93,23
+Conway,C,0.93,24
+Conway,C,0.98,25
+Conway,C,0.93,26
+Conway,C,0.93,27
+Conway,C,0.93,28
+Conway,C,0.98,29
+Conway,C,0.93,30
+Conway,C,0.93,31
+Conway,C,0.93,32
+Conway,C,0.93,33
+Conway,C,0.93,34
+Conway,C,0.93,35
+Conway,C,0.93,36
+Conway,C,0.93,37
+Conway,C,0.93,38
+Conway,C,0.92,39
+Conway,C,0.93,40
+Conway,C,0.93,41
+Conway,C,0.93,42

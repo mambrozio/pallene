@@ -1,0 +1,253 @@
+Benchmark,Implementation,Time,Seq
+Matmul,Pallene,3.446601,1
+Matmul,Pallene,3.587085,2
+Matmul,Pallene,3.546526,3
+Matmul,Pallene,3.557116,4
+Matmul,Pallene,3.581540,5
+Matmul,Pallene,3.567169,6
+Matmul,Pallene,3.564874,7
+Matmul,Pallene,3.602697,8
+Matmul,Pallene,3.579433,9
+Matmul,Pallene,3.606752,10
+Matmul,Pallene,3.592194,11
+Matmul,Pallene,3.601260,12
+Matmul,Pallene,3.607464,13
+Matmul,Pallene,3.611780,14
+Matmul,Pallene,3.619705,15
+Matmul,Pallene,3.618907,16
+Matmul,Pallene,3.595199,17
+Matmul,Pallene,3.598457,18
+Matmul,Pallene,3.563185,19
+Matmul,Pallene,3.600769,20
+Matmul,Pallene,3.567201,21
+Matmul,Pallene,3.627175,22
+Matmul,Pallene,3.575067,23
+Matmul,Pallene,3.610910,24
+Matmul,Pallene,3.594490,25
+Matmul,Pallene,3.607979,26
+Matmul,Pallene,3.576429,27
+Matmul,Pallene,3.608145,28
+Matmul,Pallene,3.582943,29
+Matmul,Pallene,3.588081,30
+Matmul,Pallene,3.603405,31
+Matmul,Pallene,3.608368,32
+Matmul,Pallene,3.609943,33
+Matmul,Pallene,3.620042,34
+Matmul,Pallene,3.624606,35
+Matmul,Pallene,3.620687,36
+Matmul,Pallene,3.606903,37
+Matmul,Pallene,3.622996,38
+Matmul,Pallene,3.628626,39
+Matmul,Pallene,3.640742,40
+Matmul,Pallene,3.643230,41
+Matmul,Pallene,3.638078,42
+Matmul,Lua 5.4,20.155054,1
+Matmul,Lua 5.4,20.081005,2
+Matmul,Lua 5.4,20.086607,3
+Matmul,Lua 5.4,20.101502,4
+Matmul,Lua 5.4,20.158649,5
+Matmul,Lua 5.4,20.092799,6
+Matmul,Lua 5.4,20.153769,7
+Matmul,Lua 5.4,20.167825,8
+Matmul,Lua 5.4,20.160968,9
+Matmul,Lua 5.4,20.162148,10
+Matmul,Lua 5.4,20.154192,11
+Matmul,Lua 5.4,20.100665,12
+Matmul,Lua 5.4,20.160938,13
+Matmul,Lua 5.4,20.155215,14
+Matmul,Lua 5.4,20.092477,15
+Matmul,Lua 5.4,20.147471,16
+Matmul,Lua 5.4,20.131681,17
+Matmul,Lua 5.4,20.163501,18
+Matmul,Lua 5.4,20.037255,19
+Matmul,Lua 5.4,20.113834,20
+Matmul,Lua 5.4,20.157765,21
+Matmul,Lua 5.4,20.163412,22
+Matmul,Lua 5.4,20.081853,23
+Matmul,Lua 5.4,20.166976,24
+Matmul,Lua 5.4,20.168676,25
+Matmul,Lua 5.4,20.092728,26
+Matmul,Lua 5.4,20.103230,27
+Matmul,Lua 5.4,20.115506,28
+Matmul,Lua 5.4,20.161138,29
+Matmul,Lua 5.4,20.161440,30
+Matmul,Lua 5.4,20.151519,31
+Matmul,Lua 5.4,20.159951,32
+Matmul,Lua 5.4,20.149379,33
+Matmul,Lua 5.4,20.164872,34
+Matmul,Lua 5.4,20.107326,35
+Matmul,Lua 5.4,20.156114,36
+Matmul,Lua 5.4,20.144805,37
+Matmul,Lua 5.4,20.128182,38
+Matmul,Lua 5.4,20.153580,39
+Matmul,Lua 5.4,20.151247,40
+Matmul,Lua 5.4,20.132999,41
+Matmul,Lua 5.4,20.112538,42
+Matmul,LuaJIT 2.1,1.889510,1
+Matmul,LuaJIT 2.1,1.847430,2
+Matmul,LuaJIT 2.1,1.850282,3
+Matmul,LuaJIT 2.1,1.846406,4
+Matmul,LuaJIT 2.1,1.868341,5
+Matmul,LuaJIT 2.1,1.863334,6
+Matmul,LuaJIT 2.1,1.871157,7
+Matmul,LuaJIT 2.1,1.877515,8
+Matmul,LuaJIT 2.1,1.868576,9
+Matmul,LuaJIT 2.1,1.889655,10
+Matmul,LuaJIT 2.1,1.887734,11
+Matmul,LuaJIT 2.1,1.893358,12
+Matmul,LuaJIT 2.1,1.901037,13
+Matmul,LuaJIT 2.1,1.861293,14
+Matmul,LuaJIT 2.1,1.876716,15
+Matmul,LuaJIT 2.1,1.877344,16
+Matmul,LuaJIT 2.1,1.877437,17
+Matmul,LuaJIT 2.1,1.889251,18
+Matmul,LuaJIT 2.1,1.873782,19
+Matmul,LuaJIT 2.1,1.876187,20
+Matmul,LuaJIT 2.1,1.883189,21
+Matmul,LuaJIT 2.1,1.907453,22
+Matmul,LuaJIT 2.1,1.894545,23
+Matmul,LuaJIT 2.1,1.899936,24
+Matmul,LuaJIT 2.1,1.881119,25
+Matmul,LuaJIT 2.1,1.882758,26
+Matmul,LuaJIT 2.1,1.883135,27
+Matmul,LuaJIT 2.1,1.891188,28
+Matmul,LuaJIT 2.1,1.892617,29
+Matmul,LuaJIT 2.1,1.893064,30
+Matmul,LuaJIT 2.1,1.887642,31
+Matmul,LuaJIT 2.1,1.889231,32
+Matmul,LuaJIT 2.1,1.875290,33
+Matmul,LuaJIT 2.1,1.861741,34
+Matmul,LuaJIT 2.1,1.888369,35
+Matmul,LuaJIT 2.1,1.885924,36
+Matmul,LuaJIT 2.1,1.864819,37
+Matmul,LuaJIT 2.1,1.876931,38
+Matmul,LuaJIT 2.1,1.870726,39
+Matmul,LuaJIT 2.1,1.882345,40
+Matmul,LuaJIT 2.1,1.907708,41
+Matmul,LuaJIT 2.1,1.888043,42
+Matmul,Lua-C API,24.778015,1
+Matmul,Lua-C API,25.420416,2
+Matmul,Lua-C API,24.844738,3
+Matmul,Lua-C API,24.939029,4
+Matmul,Lua-C API,24.901399,5
+Matmul,Lua-C API,24.952253,6
+Matmul,Lua-C API,25.090453,7
+Matmul,Lua-C API,24.951023,8
+Matmul,Lua-C API,24.977661,9
+Matmul,Lua-C API,25.099471,10
+Matmul,Lua-C API,25.004252,11
+Matmul,Lua-C API,25.021652,12
+Matmul,Lua-C API,25.037096,13
+Matmul,Lua-C API,24.922920,14
+Matmul,Lua-C API,24.988606,15
+Matmul,Lua-C API,25.059112,16
+Matmul,Lua-C API,24.977751,17
+Matmul,Lua-C API,24.894740,18
+Matmul,Lua-C API,25.047252,19
+Matmul,Lua-C API,24.994100,20
+Matmul,Lua-C API,24.962867,21
+Matmul,Lua-C API,25.005698,22
+Matmul,Lua-C API,24.993580,23
+Matmul,Lua-C API,25.057778,24
+Matmul,Lua-C API,24.969690,25
+Matmul,Lua-C API,25.039776,26
+Matmul,Lua-C API,25.018622,27
+Matmul,Lua-C API,24.899360,28
+Matmul,Lua-C API,32.166555,29
+Matmul,Lua-C API,25.079522,30
+Matmul,Lua-C API,25.078570,31
+Matmul,Lua-C API,24.861547,32
+Matmul,Lua-C API,25.047409,33
+Matmul,Lua-C API,25.046184,34
+Matmul,Lua-C API,25.033523,35
+Matmul,Lua-C API,24.879576,36
+Matmul,Lua-C API,29.452501,37
+Matmul,Lua-C API,24.966930,38
+Matmul,Lua-C API,25.052561,39
+Matmul,Lua-C API,24.980951,40
+Matmul,Lua-C API,24.909816,41
+Matmul,Lua-C API,25.005143,42
+Matmul,No Check,3.653895,1
+Matmul,No Check,3.655169,2
+Matmul,No Check,3.662018,3
+Matmul,No Check,3.629283,4
+Matmul,No Check,3.635009,5
+Matmul,No Check,3.656331,6
+Matmul,No Check,3.641554,7
+Matmul,No Check,3.659647,8
+Matmul,No Check,3.644670,9
+Matmul,No Check,3.647016,10
+Matmul,No Check,3.643709,11
+Matmul,No Check,3.624846,12
+Matmul,No Check,3.596557,13
+Matmul,No Check,3.623393,14
+Matmul,No Check,3.634827,15
+Matmul,No Check,3.658100,16
+Matmul,No Check,3.658302,17
+Matmul,No Check,3.627888,18
+Matmul,No Check,3.655710,19
+Matmul,No Check,3.653965,20
+Matmul,No Check,3.654326,21
+Matmul,No Check,3.658635,22
+Matmul,No Check,3.641313,23
+Matmul,No Check,3.654979,24
+Matmul,No Check,3.601951,25
+Matmul,No Check,3.566449,26
+Matmul,No Check,3.590847,27
+Matmul,No Check,3.634681,28
+Matmul,No Check,3.636737,29
+Matmul,No Check,3.630891,30
+Matmul,No Check,3.600780,31
+Matmul,No Check,3.645398,32
+Matmul,No Check,3.625493,33
+Matmul,No Check,3.628935,34
+Matmul,No Check,3.639993,35
+Matmul,No Check,3.642872,36
+Matmul,No Check,3.613363,37
+Matmul,No Check,3.664241,38
+Matmul,No Check,3.641730,39
+Matmul,No Check,3.633287,40
+Matmul,No Check,3.640534,41
+Matmul,No Check,3.636430,42
+Matmul,C,1.61,1
+Matmul,C,1.61,2
+Matmul,C,1.58,3
+Matmul,C,1.61,4
+Matmul,C,1.56,5
+Matmul,C,1.58,6
+Matmul,C,1.56,7
+Matmul,C,1.55,8
+Matmul,C,1.58,9
+Matmul,C,1.58,10
+Matmul,C,1.55,11
+Matmul,C,1.56,12
+Matmul,C,1.56,13
+Matmul,C,1.57,14
+Matmul,C,1.58,15
+Matmul,C,1.56,16
+Matmul,C,1.59,17
+Matmul,C,1.55,18
+Matmul,C,1.58,19
+Matmul,C,1.58,20
+Matmul,C,1.58,21
+Matmul,C,1.58,22
+Matmul,C,1.56,23
+Matmul,C,1.57,24
+Matmul,C,1.58,25
+Matmul,C,1.56,26
+Matmul,C,1.58,27
+Matmul,C,1.56,28
+Matmul,C,1.58,29
+Matmul,C,1.58,30
+Matmul,C,1.60,31
+Matmul,C,1.57,32
+Matmul,C,1.58,33
+Matmul,C,1.58,34
+Matmul,C,1.57,35
+Matmul,C,1.56,36
+Matmul,C,1.60,37
+Matmul,C,1.57,38
+Matmul,C,1.58,39
+Matmul,C,1.57,40
+Matmul,C,1.57,41
+Matmul,C,1.59,42
